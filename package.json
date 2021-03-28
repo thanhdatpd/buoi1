@@ -6,7 +6,6 @@
   "author": "alex nguyen <thanhdatppro@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "datdz": "browser-sync start --watch --server --file '*'",
-    "phucdz": "browser-sync start --server --file '*'"
+    "start": "browser-sync start --watch --server --file '*'"
   }
 }
